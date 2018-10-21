@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item>estniska</item>
+        <item>engelska</item>
+        <item>tyska</item>
+        <item>svenska</item>
+        <item>dothraki</item>
+    </string-array>
+    <string name="buttonAddWord">Lägg till ett ord</string>
+    <string name="buttonPractice">Öva</string>
+    <string name="buttonSendAnswer">Svara</string>
+    <string name="buttonShowWords">Ords lista</string>
+    <string name="buttonStartPractice">Börja</string>
+    <string name="correctTranslation">är rätt</string>
+    <string name="editAnswer">Din översättning</string>
+    <string name="editTranslation">Ange översättning</string>
+    <string name="editWord">Ange ord</string>
+    <string name="errorEmpty">Kan inte vara tom</string>
+    <string name="textFromLanguage">Fran</string>
+    <string name="textToLanguage">till</string>
+    <string name="toastInsert">Ordet</string>
+    <string name="wrongTranslation">är fel. Rätt översättning är</string>
+    <string name="action_search">Search</string>
+</resources>

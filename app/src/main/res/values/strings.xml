@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LanguageLearn</string>
+    <string-array name="languages">
+        <item>estonian</item>
+        <item>english</item>
+        <item>german</item>
+        <item>swedish</item>
+        <item>dothraki</item>
+    </string-array>
+    <string name="editWord">Enter word</string>
+    <string name="editTranslation">Enter translation</string>
+    <string name="buttonAddWord">Add word</string>
+    <string name="buttonPractice">Practice</string>
+    <string name="editAnswer">Your translation</string>
+    <string name="buttonSendAnswer">Send</string>
+    <string name="textFromLanguage">From</string>
+    <string name="textToLanguage">To</string>
+    <string name="buttonStartPractice">Start</string>
+    <string name="wrongTranslation">is wrong. Correct translation is </string>
+    <string name="correctTranslation">is correct translation</string>
+    <string name="toastInsert">Word added</string>
+    <string name="errorEmpty">Field must be filled</string>
+    <string name="buttonShowWords">List of words</string>
+    <string name="action_search">Search</string>
+    <string name="errorExists">Word already exists</string>
+</resources>
